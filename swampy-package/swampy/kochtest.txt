@@ -1,0 +1,77 @@
+Beginning Koch call, l = 100
+Beginning Koch call, l = 33.3333333333
+Beginning Koch call, l = 11.1111111111
+Drew segment of length    11.1111111111
+First Koch call complete
+     l = 33.3333333333
+Beginning Koch call, l = 11.1111111111
+Drew segment of length    11.1111111111
+Second Koch call complete
+     l = 33.3333333333
+Beginning Koch call, l = 11.1111111111
+Drew segment of length    11.1111111111
+Third Koch call complete
+     l = 33.3333333333
+Beginning Koch call, l = 11.1111111111
+Drew segment of length    11.1111111111
+Fourth Koch call complete
+     l = 33.3333333333
+First Koch call complete
+     l = 100
+Beginning Koch call, l = 33.3333333333
+Beginning Koch call, l = 11.1111111111
+Drew segment of length    11.1111111111
+First Koch call complete
+     l = 33.3333333333
+Beginning Koch call, l = 11.1111111111
+Drew segment of length    11.1111111111
+Second Koch call complete
+     l = 33.3333333333
+Beginning Koch call, l = 11.1111111111
+Drew segment of length    11.1111111111
+Third Koch call complete
+     l = 33.3333333333
+Beginning Koch call, l = 11.1111111111
+Drew segment of length    11.1111111111
+Fourth Koch call complete
+     l = 33.3333333333
+Second Koch call complete
+     l = 100
+Beginning Koch call, l = 33.3333333333
+Beginning Koch call, l = 11.1111111111
+Drew segment of length    11.1111111111
+First Koch call complete
+     l = 33.3333333333
+Beginning Koch call, l = 11.1111111111
+Drew segment of length    11.1111111111
+Second Koch call complete
+     l = 33.3333333333
+Beginning Koch call, l = 11.1111111111
+Drew segment of length    11.1111111111
+Third Koch call complete
+     l = 33.3333333333
+Beginning Koch call, l = 11.1111111111
+Drew segment of length    11.1111111111
+Fourth Koch call complete
+     l = 33.3333333333
+Third Koch call complete
+     l = 100
+Beginning Koch call, l = 33.3333333333
+Beginning Koch call, l = 11.1111111111
+Drew segment of length    11.1111111111
+First Koch call complete
+     l = 33.3333333333
+Beginning Koch call, l = 11.1111111111
+Drew segment of length    11.1111111111
+Second Koch call complete
+     l = 33.3333333333
+Beginning Koch call, l = 11.1111111111
+Drew segment of length    11.1111111111
+Third Koch call complete
+     l = 33.3333333333
+Beginning Koch call, l = 11.1111111111
+Drew segment of length    11.1111111111
+Fourth Koch call complete
+     l = 33.3333333333
+Fourth Koch call complete
+     l = 100
