@@ -1,3 +1,11 @@
 *** Cut and paste the for loop here ***
 
+					{% for message in messages %}
+{{message}}
+					{% endfor %}
+
+
 *** What is the for loop doing? ***
+
+The for loop is printing the message line-by-line until there
+are no more lines left in "messages"
